@@ -1,0 +1,10 @@
+/Users/air/Desktop/CTCI_practice/URLify/bin/Debug/netcoreapp2.0/URLify.deps.json
+/Users/air/Desktop/CTCI_practice/URLify/bin/Debug/netcoreapp2.0/URLify.runtimeconfig.json
+/Users/air/Desktop/CTCI_practice/URLify/bin/Debug/netcoreapp2.0/URLify.runtimeconfig.dev.json
+/Users/air/Desktop/CTCI_practice/URLify/bin/Debug/netcoreapp2.0/URLify.dll
+/Users/air/Desktop/CTCI_practice/URLify/bin/Debug/netcoreapp2.0/URLify.pdb
+/Users/air/Desktop/CTCI_practice/URLify/obj/Debug/netcoreapp2.0/URLify.csproj.CoreCompileInputs.cache
+/Users/air/Desktop/CTCI_practice/URLify/obj/Debug/netcoreapp2.0/URLify.AssemblyInfoInputs.cache
+/Users/air/Desktop/CTCI_practice/URLify/obj/Debug/netcoreapp2.0/URLify.AssemblyInfo.cs
+/Users/air/Desktop/CTCI_practice/URLify/obj/Debug/netcoreapp2.0/URLify.dll
+/Users/air/Desktop/CTCI_practice/URLify/obj/Debug/netcoreapp2.0/URLify.pdb

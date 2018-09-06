@@ -1,0 +1,10 @@
+/Users/air/Desktop/CTCI_practice/OneAway/obj/Debug/netcoreapp2.0/OneAway.csproj.CoreCompileInputs.cache
+/Users/air/Desktop/CTCI_practice/OneAway/obj/Debug/netcoreapp2.0/OneAway.AssemblyInfoInputs.cache
+/Users/air/Desktop/CTCI_practice/OneAway/obj/Debug/netcoreapp2.0/OneAway.AssemblyInfo.cs
+/Users/air/Desktop/CTCI_practice/OneAway/bin/Debug/netcoreapp2.0/OneAway.deps.json
+/Users/air/Desktop/CTCI_practice/OneAway/bin/Debug/netcoreapp2.0/OneAway.runtimeconfig.json
+/Users/air/Desktop/CTCI_practice/OneAway/bin/Debug/netcoreapp2.0/OneAway.runtimeconfig.dev.json
+/Users/air/Desktop/CTCI_practice/OneAway/bin/Debug/netcoreapp2.0/OneAway.dll
+/Users/air/Desktop/CTCI_practice/OneAway/bin/Debug/netcoreapp2.0/OneAway.pdb
+/Users/air/Desktop/CTCI_practice/OneAway/obj/Debug/netcoreapp2.0/OneAway.dll
+/Users/air/Desktop/CTCI_practice/OneAway/obj/Debug/netcoreapp2.0/OneAway.pdb
