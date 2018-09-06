@@ -1,0 +1,10 @@
+/Users/air/Desktop/CTCI_practice/RemAdjacentDup/obj/Debug/netcoreapp2.0/RemAdjacentDup.csproj.CoreCompileInputs.cache
+/Users/air/Desktop/CTCI_practice/RemAdjacentDup/obj/Debug/netcoreapp2.0/RemAdjacentDup.AssemblyInfoInputs.cache
+/Users/air/Desktop/CTCI_practice/RemAdjacentDup/obj/Debug/netcoreapp2.0/RemAdjacentDup.AssemblyInfo.cs
+/Users/air/Desktop/CTCI_practice/RemAdjacentDup/bin/Debug/netcoreapp2.0/RemAdjacentDup.deps.json
+/Users/air/Desktop/CTCI_practice/RemAdjacentDup/bin/Debug/netcoreapp2.0/RemAdjacentDup.runtimeconfig.json
+/Users/air/Desktop/CTCI_practice/RemAdjacentDup/bin/Debug/netcoreapp2.0/RemAdjacentDup.runtimeconfig.dev.json
+/Users/air/Desktop/CTCI_practice/RemAdjacentDup/bin/Debug/netcoreapp2.0/RemAdjacentDup.dll
+/Users/air/Desktop/CTCI_practice/RemAdjacentDup/bin/Debug/netcoreapp2.0/RemAdjacentDup.pdb
+/Users/air/Desktop/CTCI_practice/RemAdjacentDup/obj/Debug/netcoreapp2.0/RemAdjacentDup.dll
+/Users/air/Desktop/CTCI_practice/RemAdjacentDup/obj/Debug/netcoreapp2.0/RemAdjacentDup.pdb

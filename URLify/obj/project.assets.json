@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/air/Desktop/CTCI_practice/IsUnique/IsUnique.csproj",
-      "projectName": "IsUnique",
-      "projectPath": "/Users/air/Desktop/CTCI_practice/IsUnique/IsUnique.csproj",
+      "projectUniqueName": "/Users/air/Desktop/CTCI_practice/URLify/URLify.csproj",
+      "projectName": "URLify",
+      "projectPath": "/Users/air/Desktop/CTCI_practice/URLify/URLify.csproj",
       "packagesPath": "/Users/air/.nuget/packages/",
-      "outputPath": "/Users/air/Desktop/CTCI_practice/IsUnique/obj/",
+      "outputPath": "/Users/air/Desktop/CTCI_practice/URLify/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

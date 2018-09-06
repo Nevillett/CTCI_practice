@@ -1,0 +1,10 @@
+/Users/air/Desktop/CTCI_practice/MatrixPrint/obj/Debug/netcoreapp2.0/MatrixPrint.csproj.CoreCompileInputs.cache
+/Users/air/Desktop/CTCI_practice/MatrixPrint/obj/Debug/netcoreapp2.0/MatrixPrint.AssemblyInfoInputs.cache
+/Users/air/Desktop/CTCI_practice/MatrixPrint/obj/Debug/netcoreapp2.0/MatrixPrint.AssemblyInfo.cs
+/Users/air/Desktop/CTCI_practice/MatrixPrint/bin/Debug/netcoreapp2.0/MatrixPrint.deps.json
+/Users/air/Desktop/CTCI_practice/MatrixPrint/bin/Debug/netcoreapp2.0/MatrixPrint.runtimeconfig.json
+/Users/air/Desktop/CTCI_practice/MatrixPrint/bin/Debug/netcoreapp2.0/MatrixPrint.runtimeconfig.dev.json
+/Users/air/Desktop/CTCI_practice/MatrixPrint/bin/Debug/netcoreapp2.0/MatrixPrint.dll
+/Users/air/Desktop/CTCI_practice/MatrixPrint/bin/Debug/netcoreapp2.0/MatrixPrint.pdb
+/Users/air/Desktop/CTCI_practice/MatrixPrint/obj/Debug/netcoreapp2.0/MatrixPrint.dll
+/Users/air/Desktop/CTCI_practice/MatrixPrint/obj/Debug/netcoreapp2.0/MatrixPrint.pdb
