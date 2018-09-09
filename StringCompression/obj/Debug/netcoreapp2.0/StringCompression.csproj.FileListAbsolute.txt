@@ -1,0 +1,10 @@
+/Users/air/Desktop/CTCI_practice/StringCompression/obj/Debug/netcoreapp2.0/StringCompression.csproj.CoreCompileInputs.cache
+/Users/air/Desktop/CTCI_practice/StringCompression/obj/Debug/netcoreapp2.0/StringCompression.AssemblyInfoInputs.cache
+/Users/air/Desktop/CTCI_practice/StringCompression/obj/Debug/netcoreapp2.0/StringCompression.AssemblyInfo.cs
+/Users/air/Desktop/CTCI_practice/StringCompression/bin/Debug/netcoreapp2.0/StringCompression.deps.json
+/Users/air/Desktop/CTCI_practice/StringCompression/bin/Debug/netcoreapp2.0/StringCompression.runtimeconfig.json
+/Users/air/Desktop/CTCI_practice/StringCompression/bin/Debug/netcoreapp2.0/StringCompression.runtimeconfig.dev.json
+/Users/air/Desktop/CTCI_practice/StringCompression/bin/Debug/netcoreapp2.0/StringCompression.dll
+/Users/air/Desktop/CTCI_practice/StringCompression/bin/Debug/netcoreapp2.0/StringCompression.pdb
+/Users/air/Desktop/CTCI_practice/StringCompression/obj/Debug/netcoreapp2.0/StringCompression.dll
+/Users/air/Desktop/CTCI_practice/StringCompression/obj/Debug/netcoreapp2.0/StringCompression.pdb
