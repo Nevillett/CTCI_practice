@@ -1,0 +1,10 @@
+/Users/air/Desktop/CTCI_practice/Rotate_Matrix/obj/Debug/netcoreapp2.0/Rotate_Matrix.csproj.CoreCompileInputs.cache
+/Users/air/Desktop/CTCI_practice/Rotate_Matrix/obj/Debug/netcoreapp2.0/Rotate_Matrix.AssemblyInfoInputs.cache
+/Users/air/Desktop/CTCI_practice/Rotate_Matrix/obj/Debug/netcoreapp2.0/Rotate_Matrix.AssemblyInfo.cs
+/Users/air/Desktop/CTCI_practice/Rotate_Matrix/bin/Debug/netcoreapp2.0/Rotate_Matrix.deps.json
+/Users/air/Desktop/CTCI_practice/Rotate_Matrix/bin/Debug/netcoreapp2.0/Rotate_Matrix.runtimeconfig.json
+/Users/air/Desktop/CTCI_practice/Rotate_Matrix/bin/Debug/netcoreapp2.0/Rotate_Matrix.runtimeconfig.dev.json
+/Users/air/Desktop/CTCI_practice/Rotate_Matrix/bin/Debug/netcoreapp2.0/Rotate_Matrix.dll
+/Users/air/Desktop/CTCI_practice/Rotate_Matrix/bin/Debug/netcoreapp2.0/Rotate_Matrix.pdb
+/Users/air/Desktop/CTCI_practice/Rotate_Matrix/obj/Debug/netcoreapp2.0/Rotate_Matrix.dll
+/Users/air/Desktop/CTCI_practice/Rotate_Matrix/obj/Debug/netcoreapp2.0/Rotate_Matrix.pdb
